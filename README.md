@@ -30,4 +30,4 @@ From a technical perspective, building this extension involves frontend and back
 In essence, Task 4 encapsulates modern full-stack development principles applied to a practical use case enhancing daily productivity. It requires seamless integration between client-side browser APIs and robust backend infrastructure. The final solution empowers users with actionable insights drawn from their digital behavior, fosters self-awareness around time management, and supports better work-life balance by encouraging focused online activity. Successfully completing this task demonstrates proficiency in API integration, data handling, user experience design, and application architecture, making it a valuable project for aspiring full-stack developers.
 
 OUTPUT-
-
+<img width="431" height="328" alt="Image" src="https://github.com/user-attachments/assets/db6c6c81-5fd2-41a8-a00d-8dd68fdf7704" />
